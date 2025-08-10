@@ -1,3 +1,6 @@
+<img width="1584" height="396" alt="GITHUB" src="https://github.com/user-attachments/assets/decdac09-7325-468f-972b-8ae86f5f550d" />
+
+
 <h1 align="center">Hi 👋, I'm Talha Ishaq</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
@@ -6,6 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talha309&label=Profile%20views&color=0e75b6&style=flat" alt="talha309" /> </p>
 
 - 🌱 I’m currently learning **Agentic AI**
+
 
 - 💬 Ask me about **FastApi, Openai SDK,Langgraph&Langchain, Rag**
 
