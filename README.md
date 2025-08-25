@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **tiseoexpert@gmail.com**
 
-- 📄 Know about my experiences [Chatbot with Agentic AI](Chatbot)
+- 📄 Know about my experiences [chatbot-backend-fastapi)
 
 - ⚡ Fun fact **I know the Languages only understand by other Software Engineers**
 
